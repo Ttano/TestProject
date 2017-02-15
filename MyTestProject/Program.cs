@@ -10,6 +10,7 @@ namespace MyTestProject
     {
         static void Main(string[] args)
         {
+            // It's great. You'll love it. 12 points.
         }
     }
 }
